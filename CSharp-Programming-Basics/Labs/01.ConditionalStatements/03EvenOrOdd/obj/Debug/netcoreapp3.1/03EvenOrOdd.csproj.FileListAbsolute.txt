@@ -1,0 +1,13 @@
+C:\Users\Geri\source\repos\ConditionalStatements\03EvenOrOdd\bin\Debug\netcoreapp3.1\03EvenOrOdd.exe
+C:\Users\Geri\source\repos\ConditionalStatements\03EvenOrOdd\bin\Debug\netcoreapp3.1\03EvenOrOdd.deps.json
+C:\Users\Geri\source\repos\ConditionalStatements\03EvenOrOdd\bin\Debug\netcoreapp3.1\03EvenOrOdd.runtimeconfig.json
+C:\Users\Geri\source\repos\ConditionalStatements\03EvenOrOdd\bin\Debug\netcoreapp3.1\03EvenOrOdd.runtimeconfig.dev.json
+C:\Users\Geri\source\repos\ConditionalStatements\03EvenOrOdd\bin\Debug\netcoreapp3.1\03EvenOrOdd.dll
+C:\Users\Geri\source\repos\ConditionalStatements\03EvenOrOdd\bin\Debug\netcoreapp3.1\03EvenOrOdd.pdb
+C:\Users\Geri\source\repos\ConditionalStatements\03EvenOrOdd\obj\Debug\netcoreapp3.1\03EvenOrOdd.csprojAssemblyReference.cache
+C:\Users\Geri\source\repos\ConditionalStatements\03EvenOrOdd\obj\Debug\netcoreapp3.1\03EvenOrOdd.AssemblyInfoInputs.cache
+C:\Users\Geri\source\repos\ConditionalStatements\03EvenOrOdd\obj\Debug\netcoreapp3.1\03EvenOrOdd.AssemblyInfo.cs
+C:\Users\Geri\source\repos\ConditionalStatements\03EvenOrOdd\obj\Debug\netcoreapp3.1\03EvenOrOdd.csproj.CoreCompileInputs.cache
+C:\Users\Geri\source\repos\ConditionalStatements\03EvenOrOdd\obj\Debug\netcoreapp3.1\03EvenOrOdd.dll
+C:\Users\Geri\source\repos\ConditionalStatements\03EvenOrOdd\obj\Debug\netcoreapp3.1\03EvenOrOdd.pdb
+C:\Users\Geri\source\repos\ConditionalStatements\03EvenOrOdd\obj\Debug\netcoreapp3.1\03EvenOrOdd.genruntimeconfig.cache

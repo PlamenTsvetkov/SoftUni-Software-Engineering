@@ -1,0 +1,13 @@
+C:\Users\Geri\source\repos\ConditionalStatements\ExcellentResult\bin\Debug\netcoreapp3.1\01ExcellentResult.exe
+C:\Users\Geri\source\repos\ConditionalStatements\ExcellentResult\bin\Debug\netcoreapp3.1\01ExcellentResult.deps.json
+C:\Users\Geri\source\repos\ConditionalStatements\ExcellentResult\bin\Debug\netcoreapp3.1\01ExcellentResult.runtimeconfig.json
+C:\Users\Geri\source\repos\ConditionalStatements\ExcellentResult\bin\Debug\netcoreapp3.1\01ExcellentResult.runtimeconfig.dev.json
+C:\Users\Geri\source\repos\ConditionalStatements\ExcellentResult\bin\Debug\netcoreapp3.1\01ExcellentResult.dll
+C:\Users\Geri\source\repos\ConditionalStatements\ExcellentResult\bin\Debug\netcoreapp3.1\01ExcellentResult.pdb
+C:\Users\Geri\source\repos\ConditionalStatements\ExcellentResult\obj\Debug\netcoreapp3.1\01ExcellentResult.csprojAssemblyReference.cache
+C:\Users\Geri\source\repos\ConditionalStatements\ExcellentResult\obj\Debug\netcoreapp3.1\01ExcellentResult.AssemblyInfoInputs.cache
+C:\Users\Geri\source\repos\ConditionalStatements\ExcellentResult\obj\Debug\netcoreapp3.1\01ExcellentResult.AssemblyInfo.cs
+C:\Users\Geri\source\repos\ConditionalStatements\ExcellentResult\obj\Debug\netcoreapp3.1\01ExcellentResult.csproj.CoreCompileInputs.cache
+C:\Users\Geri\source\repos\ConditionalStatements\ExcellentResult\obj\Debug\netcoreapp3.1\01ExcellentResult.dll
+C:\Users\Geri\source\repos\ConditionalStatements\ExcellentResult\obj\Debug\netcoreapp3.1\01ExcellentResult.pdb
+C:\Users\Geri\source\repos\ConditionalStatements\ExcellentResult\obj\Debug\netcoreapp3.1\01ExcellentResult.genruntimeconfig.cache

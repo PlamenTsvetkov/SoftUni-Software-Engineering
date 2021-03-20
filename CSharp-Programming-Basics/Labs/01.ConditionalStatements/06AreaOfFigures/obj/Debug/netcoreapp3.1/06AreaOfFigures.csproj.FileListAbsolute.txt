@@ -1,0 +1,13 @@
+C:\Users\Geri\source\repos\ConditionalStatements\06AreaOfFigures\bin\Debug\netcoreapp3.1\06AreaOfFigures.exe
+C:\Users\Geri\source\repos\ConditionalStatements\06AreaOfFigures\bin\Debug\netcoreapp3.1\06AreaOfFigures.deps.json
+C:\Users\Geri\source\repos\ConditionalStatements\06AreaOfFigures\bin\Debug\netcoreapp3.1\06AreaOfFigures.runtimeconfig.json
+C:\Users\Geri\source\repos\ConditionalStatements\06AreaOfFigures\bin\Debug\netcoreapp3.1\06AreaOfFigures.runtimeconfig.dev.json
+C:\Users\Geri\source\repos\ConditionalStatements\06AreaOfFigures\bin\Debug\netcoreapp3.1\06AreaOfFigures.dll
+C:\Users\Geri\source\repos\ConditionalStatements\06AreaOfFigures\bin\Debug\netcoreapp3.1\06AreaOfFigures.pdb
+C:\Users\Geri\source\repos\ConditionalStatements\06AreaOfFigures\obj\Debug\netcoreapp3.1\06AreaOfFigures.csprojAssemblyReference.cache
+C:\Users\Geri\source\repos\ConditionalStatements\06AreaOfFigures\obj\Debug\netcoreapp3.1\06AreaOfFigures.AssemblyInfoInputs.cache
+C:\Users\Geri\source\repos\ConditionalStatements\06AreaOfFigures\obj\Debug\netcoreapp3.1\06AreaOfFigures.AssemblyInfo.cs
+C:\Users\Geri\source\repos\ConditionalStatements\06AreaOfFigures\obj\Debug\netcoreapp3.1\06AreaOfFigures.csproj.CoreCompileInputs.cache
+C:\Users\Geri\source\repos\ConditionalStatements\06AreaOfFigures\obj\Debug\netcoreapp3.1\06AreaOfFigures.dll
+C:\Users\Geri\source\repos\ConditionalStatements\06AreaOfFigures\obj\Debug\netcoreapp3.1\06AreaOfFigures.pdb
+C:\Users\Geri\source\repos\ConditionalStatements\06AreaOfFigures\obj\Debug\netcoreapp3.1\06AreaOfFigures.genruntimeconfig.cache
