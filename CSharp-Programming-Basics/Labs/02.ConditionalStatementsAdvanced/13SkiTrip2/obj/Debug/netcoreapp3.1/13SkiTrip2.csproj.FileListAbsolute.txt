@@ -1,0 +1,12 @@
+C:\Users\Geri\source\repos\ConditionalStatementsAdvancedLabReal\13SkiTrip2\bin\Debug\netcoreapp3.1\13SkiTrip2.exe
+C:\Users\Geri\source\repos\ConditionalStatementsAdvancedLabReal\13SkiTrip2\bin\Debug\netcoreapp3.1\13SkiTrip2.deps.json
+C:\Users\Geri\source\repos\ConditionalStatementsAdvancedLabReal\13SkiTrip2\bin\Debug\netcoreapp3.1\13SkiTrip2.runtimeconfig.json
+C:\Users\Geri\source\repos\ConditionalStatementsAdvancedLabReal\13SkiTrip2\bin\Debug\netcoreapp3.1\13SkiTrip2.runtimeconfig.dev.json
+C:\Users\Geri\source\repos\ConditionalStatementsAdvancedLabReal\13SkiTrip2\bin\Debug\netcoreapp3.1\13SkiTrip2.dll
+C:\Users\Geri\source\repos\ConditionalStatementsAdvancedLabReal\13SkiTrip2\bin\Debug\netcoreapp3.1\13SkiTrip2.pdb
+C:\Users\Geri\source\repos\ConditionalStatementsAdvancedLabReal\13SkiTrip2\obj\Debug\netcoreapp3.1\13SkiTrip2.AssemblyInfoInputs.cache
+C:\Users\Geri\source\repos\ConditionalStatementsAdvancedLabReal\13SkiTrip2\obj\Debug\netcoreapp3.1\13SkiTrip2.AssemblyInfo.cs
+C:\Users\Geri\source\repos\ConditionalStatementsAdvancedLabReal\13SkiTrip2\obj\Debug\netcoreapp3.1\13SkiTrip2.csproj.CoreCompileInputs.cache
+C:\Users\Geri\source\repos\ConditionalStatementsAdvancedLabReal\13SkiTrip2\obj\Debug\netcoreapp3.1\13SkiTrip2.dll
+C:\Users\Geri\source\repos\ConditionalStatementsAdvancedLabReal\13SkiTrip2\obj\Debug\netcoreapp3.1\13SkiTrip2.pdb
+C:\Users\Geri\source\repos\ConditionalStatementsAdvancedLabReal\13SkiTrip2\obj\Debug\netcoreapp3.1\13SkiTrip2.genruntimeconfig.cache

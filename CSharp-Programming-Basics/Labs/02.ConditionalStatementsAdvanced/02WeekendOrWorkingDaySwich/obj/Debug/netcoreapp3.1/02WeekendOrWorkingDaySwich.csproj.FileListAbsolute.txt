@@ -1,0 +1,13 @@
+C:\Users\Geri\source\repos\ConditionalStatementsAdvancedLabReal\02WeekendOrWorkingDaySwich\bin\Debug\netcoreapp3.1\02WeekendOrWorkingDaySwich.exe
+C:\Users\Geri\source\repos\ConditionalStatementsAdvancedLabReal\02WeekendOrWorkingDaySwich\bin\Debug\netcoreapp3.1\02WeekendOrWorkingDaySwich.deps.json
+C:\Users\Geri\source\repos\ConditionalStatementsAdvancedLabReal\02WeekendOrWorkingDaySwich\bin\Debug\netcoreapp3.1\02WeekendOrWorkingDaySwich.runtimeconfig.json
+C:\Users\Geri\source\repos\ConditionalStatementsAdvancedLabReal\02WeekendOrWorkingDaySwich\bin\Debug\netcoreapp3.1\02WeekendOrWorkingDaySwich.runtimeconfig.dev.json
+C:\Users\Geri\source\repos\ConditionalStatementsAdvancedLabReal\02WeekendOrWorkingDaySwich\bin\Debug\netcoreapp3.1\02WeekendOrWorkingDaySwich.dll
+C:\Users\Geri\source\repos\ConditionalStatementsAdvancedLabReal\02WeekendOrWorkingDaySwich\bin\Debug\netcoreapp3.1\02WeekendOrWorkingDaySwich.pdb
+C:\Users\Geri\source\repos\ConditionalStatementsAdvancedLabReal\02WeekendOrWorkingDaySwich\obj\Debug\netcoreapp3.1\02WeekendOrWorkingDaySwich.csprojAssemblyReference.cache
+C:\Users\Geri\source\repos\ConditionalStatementsAdvancedLabReal\02WeekendOrWorkingDaySwich\obj\Debug\netcoreapp3.1\02WeekendOrWorkingDaySwich.AssemblyInfoInputs.cache
+C:\Users\Geri\source\repos\ConditionalStatementsAdvancedLabReal\02WeekendOrWorkingDaySwich\obj\Debug\netcoreapp3.1\02WeekendOrWorkingDaySwich.AssemblyInfo.cs
+C:\Users\Geri\source\repos\ConditionalStatementsAdvancedLabReal\02WeekendOrWorkingDaySwich\obj\Debug\netcoreapp3.1\02WeekendOrWorkingDaySwich.csproj.CoreCompileInputs.cache
+C:\Users\Geri\source\repos\ConditionalStatementsAdvancedLabReal\02WeekendOrWorkingDaySwich\obj\Debug\netcoreapp3.1\02WeekendOrWorkingDaySwich.dll
+C:\Users\Geri\source\repos\ConditionalStatementsAdvancedLabReal\02WeekendOrWorkingDaySwich\obj\Debug\netcoreapp3.1\02WeekendOrWorkingDaySwich.pdb
+C:\Users\Geri\source\repos\ConditionalStatementsAdvancedLabReal\02WeekendOrWorkingDaySwich\obj\Debug\netcoreapp3.1\02WeekendOrWorkingDaySwich.genruntimeconfig.cache

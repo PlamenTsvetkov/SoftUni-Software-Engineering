@@ -1,0 +1,3 @@
+C:\Users\Geri\source\repos\ConditionalStatementsAdvancedLabReal\04PersonalTitles\obj\Debug\netcoreapp3.1\04PersonalTitles.AssemblyInfoInputs.cache
+C:\Users\Geri\source\repos\ConditionalStatementsAdvancedLabReal\04PersonalTitles\obj\Debug\netcoreapp3.1\04PersonalTitles.AssemblyInfo.cs
+C:\Users\Geri\source\repos\ConditionalStatementsAdvancedLabReal\04PersonalTitles\obj\Debug\netcoreapp3.1\04PersonalTitles.csproj.CoreCompileInputs.cache

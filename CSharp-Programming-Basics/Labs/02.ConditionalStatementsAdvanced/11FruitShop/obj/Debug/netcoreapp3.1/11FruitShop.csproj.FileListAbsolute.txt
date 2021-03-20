@@ -1,0 +1,13 @@
+C:\Users\Geri\source\repos\ConditionalStatementsAdvancedLabReal\11FruitShop\bin\Debug\netcoreapp3.1\11FruitShop.exe
+C:\Users\Geri\source\repos\ConditionalStatementsAdvancedLabReal\11FruitShop\bin\Debug\netcoreapp3.1\11FruitShop.deps.json
+C:\Users\Geri\source\repos\ConditionalStatementsAdvancedLabReal\11FruitShop\bin\Debug\netcoreapp3.1\11FruitShop.runtimeconfig.json
+C:\Users\Geri\source\repos\ConditionalStatementsAdvancedLabReal\11FruitShop\bin\Debug\netcoreapp3.1\11FruitShop.runtimeconfig.dev.json
+C:\Users\Geri\source\repos\ConditionalStatementsAdvancedLabReal\11FruitShop\bin\Debug\netcoreapp3.1\11FruitShop.dll
+C:\Users\Geri\source\repos\ConditionalStatementsAdvancedLabReal\11FruitShop\bin\Debug\netcoreapp3.1\11FruitShop.pdb
+C:\Users\Geri\source\repos\ConditionalStatementsAdvancedLabReal\11FruitShop\obj\Debug\netcoreapp3.1\11FruitShop.csprojAssemblyReference.cache
+C:\Users\Geri\source\repos\ConditionalStatementsAdvancedLabReal\11FruitShop\obj\Debug\netcoreapp3.1\11FruitShop.AssemblyInfoInputs.cache
+C:\Users\Geri\source\repos\ConditionalStatementsAdvancedLabReal\11FruitShop\obj\Debug\netcoreapp3.1\11FruitShop.AssemblyInfo.cs
+C:\Users\Geri\source\repos\ConditionalStatementsAdvancedLabReal\11FruitShop\obj\Debug\netcoreapp3.1\11FruitShop.csproj.CoreCompileInputs.cache
+C:\Users\Geri\source\repos\ConditionalStatementsAdvancedLabReal\11FruitShop\obj\Debug\netcoreapp3.1\11FruitShop.dll
+C:\Users\Geri\source\repos\ConditionalStatementsAdvancedLabReal\11FruitShop\obj\Debug\netcoreapp3.1\11FruitShop.pdb
+C:\Users\Geri\source\repos\ConditionalStatementsAdvancedLabReal\11FruitShop\obj\Debug\netcoreapp3.1\11FruitShop.genruntimeconfig.cache

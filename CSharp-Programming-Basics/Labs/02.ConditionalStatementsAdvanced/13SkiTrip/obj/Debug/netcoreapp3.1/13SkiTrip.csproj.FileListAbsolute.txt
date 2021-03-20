@@ -1,0 +1,13 @@
+C:\Users\Geri\source\repos\ConditionalStatementsAdvancedLabReal\13SkiTrip\obj\Debug\netcoreapp3.1\13SkiTrip.csprojAssemblyReference.cache
+C:\Users\Geri\source\repos\ConditionalStatementsAdvancedLabReal\13SkiTrip\obj\Debug\netcoreapp3.1\13SkiTrip.AssemblyInfoInputs.cache
+C:\Users\Geri\source\repos\ConditionalStatementsAdvancedLabReal\13SkiTrip\obj\Debug\netcoreapp3.1\13SkiTrip.AssemblyInfo.cs
+C:\Users\Geri\source\repos\ConditionalStatementsAdvancedLabReal\13SkiTrip\obj\Debug\netcoreapp3.1\13SkiTrip.csproj.CoreCompileInputs.cache
+C:\Users\Geri\source\repos\ConditionalStatementsAdvancedLabReal\13SkiTrip\bin\Debug\netcoreapp3.1\13SkiTrip.exe
+C:\Users\Geri\source\repos\ConditionalStatementsAdvancedLabReal\13SkiTrip\bin\Debug\netcoreapp3.1\13SkiTrip.deps.json
+C:\Users\Geri\source\repos\ConditionalStatementsAdvancedLabReal\13SkiTrip\bin\Debug\netcoreapp3.1\13SkiTrip.runtimeconfig.json
+C:\Users\Geri\source\repos\ConditionalStatementsAdvancedLabReal\13SkiTrip\bin\Debug\netcoreapp3.1\13SkiTrip.runtimeconfig.dev.json
+C:\Users\Geri\source\repos\ConditionalStatementsAdvancedLabReal\13SkiTrip\bin\Debug\netcoreapp3.1\13SkiTrip.dll
+C:\Users\Geri\source\repos\ConditionalStatementsAdvancedLabReal\13SkiTrip\bin\Debug\netcoreapp3.1\13SkiTrip.pdb
+C:\Users\Geri\source\repos\ConditionalStatementsAdvancedLabReal\13SkiTrip\obj\Debug\netcoreapp3.1\13SkiTrip.dll
+C:\Users\Geri\source\repos\ConditionalStatementsAdvancedLabReal\13SkiTrip\obj\Debug\netcoreapp3.1\13SkiTrip.pdb
+C:\Users\Geri\source\repos\ConditionalStatementsAdvancedLabReal\13SkiTrip\obj\Debug\netcoreapp3.1\13SkiTrip.genruntimeconfig.cache
