@@ -1,0 +1,13 @@
+C:\Users\Geri\source\repos\ConditionalStatementsExercise\03SpeedInfo\bin\Debug\netcoreapp3.1\03SpeedInfo.exe
+C:\Users\Geri\source\repos\ConditionalStatementsExercise\03SpeedInfo\bin\Debug\netcoreapp3.1\03SpeedInfo.deps.json
+C:\Users\Geri\source\repos\ConditionalStatementsExercise\03SpeedInfo\bin\Debug\netcoreapp3.1\03SpeedInfo.runtimeconfig.json
+C:\Users\Geri\source\repos\ConditionalStatementsExercise\03SpeedInfo\bin\Debug\netcoreapp3.1\03SpeedInfo.runtimeconfig.dev.json
+C:\Users\Geri\source\repos\ConditionalStatementsExercise\03SpeedInfo\bin\Debug\netcoreapp3.1\03SpeedInfo.dll
+C:\Users\Geri\source\repos\ConditionalStatementsExercise\03SpeedInfo\bin\Debug\netcoreapp3.1\03SpeedInfo.pdb
+C:\Users\Geri\source\repos\ConditionalStatementsExercise\03SpeedInfo\obj\Debug\netcoreapp3.1\03SpeedInfo.csprojAssemblyReference.cache
+C:\Users\Geri\source\repos\ConditionalStatementsExercise\03SpeedInfo\obj\Debug\netcoreapp3.1\03SpeedInfo.AssemblyInfoInputs.cache
+C:\Users\Geri\source\repos\ConditionalStatementsExercise\03SpeedInfo\obj\Debug\netcoreapp3.1\03SpeedInfo.AssemblyInfo.cs
+C:\Users\Geri\source\repos\ConditionalStatementsExercise\03SpeedInfo\obj\Debug\netcoreapp3.1\03SpeedInfo.csproj.CoreCompileInputs.cache
+C:\Users\Geri\source\repos\ConditionalStatementsExercise\03SpeedInfo\obj\Debug\netcoreapp3.1\03SpeedInfo.dll
+C:\Users\Geri\source\repos\ConditionalStatementsExercise\03SpeedInfo\obj\Debug\netcoreapp3.1\03SpeedInfo.pdb
+C:\Users\Geri\source\repos\ConditionalStatementsExercise\03SpeedInfo\obj\Debug\netcoreapp3.1\03SpeedInfo.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Geri\source\repos\ConditionalStatementsExercise\02BonusScore\obj\Debug\netcoreapp3.1\02BonusScore.csprojAssemblyReference.cache
+C:\Users\Geri\source\repos\ConditionalStatementsExercise\02BonusScore\obj\Debug\netcoreapp3.1\02BonusScore.AssemblyInfoInputs.cache
+C:\Users\Geri\source\repos\ConditionalStatementsExercise\02BonusScore\obj\Debug\netcoreapp3.1\02BonusScore.AssemblyInfo.cs
+C:\Users\Geri\source\repos\ConditionalStatementsExercise\02BonusScore\obj\Debug\netcoreapp3.1\02BonusScore.csproj.CoreCompileInputs.cache
+C:\Users\Geri\source\repos\ConditionalStatementsExercise\02BonusScore\bin\Debug\netcoreapp3.1\02BonusScore.exe
+C:\Users\Geri\source\repos\ConditionalStatementsExercise\02BonusScore\bin\Debug\netcoreapp3.1\02BonusScore.deps.json
+C:\Users\Geri\source\repos\ConditionalStatementsExercise\02BonusScore\bin\Debug\netcoreapp3.1\02BonusScore.runtimeconfig.json
+C:\Users\Geri\source\repos\ConditionalStatementsExercise\02BonusScore\bin\Debug\netcoreapp3.1\02BonusScore.runtimeconfig.dev.json
+C:\Users\Geri\source\repos\ConditionalStatementsExercise\02BonusScore\bin\Debug\netcoreapp3.1\02BonusScore.dll
+C:\Users\Geri\source\repos\ConditionalStatementsExercise\02BonusScore\bin\Debug\netcoreapp3.1\02BonusScore.pdb
+C:\Users\Geri\source\repos\ConditionalStatementsExercise\02BonusScore\obj\Debug\netcoreapp3.1\02BonusScore.dll
+C:\Users\Geri\source\repos\ConditionalStatementsExercise\02BonusScore\obj\Debug\netcoreapp3.1\02BonusScore.pdb
+C:\Users\Geri\source\repos\ConditionalStatementsExercise\02BonusScore\obj\Debug\netcoreapp3.1\02BonusScore.genruntimeconfig.cache

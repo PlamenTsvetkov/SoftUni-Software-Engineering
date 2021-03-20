@@ -1,0 +1,13 @@
+C:\Users\Geri\source\repos\ConditionalStatementsExercise\05Time15Minutes\bin\Debug\netcoreapp3.1\05Time15Minutes.exe
+C:\Users\Geri\source\repos\ConditionalStatementsExercise\05Time15Minutes\bin\Debug\netcoreapp3.1\05Time15Minutes.deps.json
+C:\Users\Geri\source\repos\ConditionalStatementsExercise\05Time15Minutes\bin\Debug\netcoreapp3.1\05Time15Minutes.runtimeconfig.json
+C:\Users\Geri\source\repos\ConditionalStatementsExercise\05Time15Minutes\bin\Debug\netcoreapp3.1\05Time15Minutes.runtimeconfig.dev.json
+C:\Users\Geri\source\repos\ConditionalStatementsExercise\05Time15Minutes\bin\Debug\netcoreapp3.1\05Time15Minutes.dll
+C:\Users\Geri\source\repos\ConditionalStatementsExercise\05Time15Minutes\bin\Debug\netcoreapp3.1\05Time15Minutes.pdb
+C:\Users\Geri\source\repos\ConditionalStatementsExercise\05Time15Minutes\obj\Debug\netcoreapp3.1\05Time15Minutes.AssemblyInfoInputs.cache
+C:\Users\Geri\source\repos\ConditionalStatementsExercise\05Time15Minutes\obj\Debug\netcoreapp3.1\05Time15Minutes.AssemblyInfo.cs
+C:\Users\Geri\source\repos\ConditionalStatementsExercise\05Time15Minutes\obj\Debug\netcoreapp3.1\05Time15Minutes.csproj.CoreCompileInputs.cache
+C:\Users\Geri\source\repos\ConditionalStatementsExercise\05Time15Minutes\obj\Debug\netcoreapp3.1\05Time15Minutes.dll
+C:\Users\Geri\source\repos\ConditionalStatementsExercise\05Time15Minutes\obj\Debug\netcoreapp3.1\05Time15Minutes.pdb
+C:\Users\Geri\source\repos\ConditionalStatementsExercise\05Time15Minutes\obj\Debug\netcoreapp3.1\05Time15Minutes.genruntimeconfig.cache
+C:\Users\Geri\source\repos\ConditionalStatementsExercise\05Time15Minutes\obj\Debug\netcoreapp3.1\05Time15Minutes.csprojAssemblyReference.cache
