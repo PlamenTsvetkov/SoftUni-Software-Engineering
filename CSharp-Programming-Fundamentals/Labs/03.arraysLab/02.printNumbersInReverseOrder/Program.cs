@@ -1,0 +1,21 @@
+﻿using System;
+
+namespace _02.printNumbersInReverseOrder
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int n = int.Parse(Console.ReadLine());
+            int[] arrey = new int[n];
+            for (int i = 0; i < n; i++)
+            {
+                arrey[i] =int.Parse(Console.ReadLine());
+            }
+            for (int j = n-1; j >= 0; j--)
+            {
+                Console.Write($"{arrey[j]} ");
+            }
+        }
+    }
+}
